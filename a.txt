@@ -1,4 +1,4 @@
-<<<<<< HEAD
+m<<<<< HEAD
 firstline
 
 second line
@@ -6,5 +6,10 @@ second line
 3rd line
 
 4th line
+<<<<<<< HEAD
 5th line
 7th line
+
+6th line
+8th line
+
